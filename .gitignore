@@ -1,0 +1,20 @@
+# XCode Files        #
+######################
+SimpleBeacon.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad/*
+SimpleBeacon.xcodeproj/xcuserdata/*.xcuserdatad/*
+SimpleBeacon.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad/UserInterfaceState.xcuserstate
+SimpleBeacon.xcodeproj/project.xcworkspace/xcuserdata/*
+SimpleBeacon.xcodeproj/xcuserdata/*
+SimpleBeacon.xcodeproj/project.xcworkspace/xcshareddata/SimpleBeacon.xccheckout
+*.xccheckout
+
+# OSX Files          #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
